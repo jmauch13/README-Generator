@@ -1,4 +1,13 @@
 // TODO: Include packages needed for this application
+/*var inquirer = require('inquirer');
+inquirer
+    .prompt([
+
+    ])
+    .then(answers => {
+
+    });*/
+
 
 // TODO: Create an array of questions for user input
 const questions = [];
@@ -11,3 +20,6 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+
+//inquirer.prompt(questions) -> promise
