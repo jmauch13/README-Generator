@@ -1,6 +1,24 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
-console.log(inquirer)
+
+const promptUser = () => {
+
+    return inquirer.prompt([
+        {
+            type: 'input',
+            name: 'github',
+            message: 'What is your GitHub username?'
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email?',
+        },
+    ]);
+};
+
+promptUser().then(answers => console.log(answers));
+
 /*inquirer
     .prompt([
 
