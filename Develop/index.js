@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
-/*var inquirer = require('inquirer');
-inquirer
+const inquirer = require('inquirer');
+console.log(inquirer)
+/*inquirer
     .prompt([
 
     ])
