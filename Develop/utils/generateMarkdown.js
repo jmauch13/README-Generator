@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+// license badge and link to display at top of README
 function renderLicenseBadge(license) {
   if (!license) {
     return ``;
@@ -8,7 +9,7 @@ function renderLicenseBadge(license) {
     }
   }
 
-
+// render link to chosen license page
 function renderLicenseLink(license) {
   if (license === 'MIT') {
     return `https://lbesson.mit-license.org/`
@@ -21,6 +22,7 @@ function renderLicenseLink(license) {
   }
 }
 
+// render README section for license
 function renderLicenseSection(license) {
   if (!license) {
     return ``;
