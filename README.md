@@ -1,9 +1,9 @@
 # The Zen Project
 
-![badge](https://img.shields.io/license-MIT-brightgreen)<br />
+![badge](https://img.shields.io/license-Apache-brightgreen)<br />
 
   ## Description
-An app for inspirational quotes and horoscopes.
+zen things
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,16 +14,16 @@ An app for inspirational quotes and horoscopes.
 * [Questions](#questions)
 
 ## Installation
-You can clone this project
+clone
 
 ## Usage
 user input
 
 ## License
-This project is licensed under MIT
+This project is licensed under Apache
 
 ## Contributing
-you can create an issue or push changes
+create issue or push changes
 
 ## Tests
 npm test
