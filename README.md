@@ -1,9 +1,9 @@
-# the zen project
+# the zen
 
-![badge](https://img.shields.io/license-Apache-brightgreen)
+[![Apache license](https://img.shields.io/badge/License-Apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Description
-zen things
+horoscopes
 
 ## Table of Contents
 * [Installation](#installation)
@@ -17,17 +17,18 @@ zen things
 clone project
 
 ## Usage
-user input
+open
 
 ## License
-This project is licensed under Apache
+    This project is covered under the Apache license.  To learn more, click the link to your chosen license's information page
 
 ## Contributing
-create issues or push changes
+create issue
 
 ## Tests
 npm test
 
 ## Questions
-If you have any questions about this project, please contact me at jenniemauch@me.com.
-You can find me on Github at https://github.com/jmauch13.
+Questions about this project?
+Email: jenniemauch@me.com
+GitHub: https://github.com/jmauch13
