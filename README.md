@@ -1,8 +1,8 @@
-# The Zen Project
+# the zen project
 
-![badge](https://img.shields.io/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/license-Apache-brightgreen)
 
-  ## Description
+## Description
 zen things
 
 ## Table of Contents
@@ -14,7 +14,7 @@ zen things
 * [Questions](#questions)
 
 ## Installation
-clone
+clone project
 
 ## Usage
 user input
@@ -23,7 +23,7 @@ user input
 This project is licensed under Apache
 
 ## Contributing
-create issue or push changes
+create issues or push changes
 
 ## Tests
 npm test

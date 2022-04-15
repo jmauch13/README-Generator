@@ -64,12 +64,11 @@ const questions = () => {
             type: 'list',
             name: 'license',
             message: 'Please choose which type of license your project has',
-            choices: ['MIT', 'Apache', 'GPL', 'None'],
+            choices: ['MIT', 'Apache', 'GPL'],
             validate: licenseInput => {
                 if (licenseInput) {
                     return true;
                 } else {
-                    console.log('Please choose a license option.');
                     return false;
                 }
                 }
