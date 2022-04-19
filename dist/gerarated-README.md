@@ -1,9 +1,9 @@
-# the zen
+# the zen project
 
 [![Apache license](https://img.shields.io/badge/License-Apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Description
-horoscopes
+horoscopes and inspirational quotes
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,16 +14,16 @@ horoscopes
 * [Questions](#questions)
 
 ## Installation
-clone project
+clone project to local computer
 
 ## Usage
-open
+user inputs information which calls API to return 
 
 ## License
-    This project is covered under the Apache license.  To learn more, click the link to your chosen license's information page
+This project is covered under the Apache license.  To learn more, click the link to your chosen license's information page
 
 ## Contributing
-create issue
+create issue on GitHub or push changes back to repo
 
 ## Tests
 npm test
